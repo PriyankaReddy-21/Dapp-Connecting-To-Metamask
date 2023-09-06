@@ -3,8 +3,8 @@ Simple Dapp connecting to metamask
 
 Operation : 
 
-- You can connect to your metamask wallet from the website.
-- Once metamask wallet is connected successfully, your wallet address will be visible on website.
+- You can connect to your metamask wallet from the dapp website.
+- Once metamask wallet is connected successfully, your wallet address will be visible on dapp website.
 
 
 To run : 
